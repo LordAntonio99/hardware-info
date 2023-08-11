@@ -56,8 +56,9 @@
     "updater": {
       "active": true,
       "endpoints": [
-        "https://gist.githubusercontent.com/LordAntonio99/513bf12b8304ab1edca4ad542bdc455e/raw/d7eb63c9772f0fbd07e64be70d371ea6154079fd"
+        "https://github.com/LordAntonio99/hardware-info/releases/{{target}}/{{arch}}/{{current_version}}"
       ],
+      "dialog": true,
       "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEI2OEFFMjRFOTQ5RTIyMDMKUldRRElwNlVUdUtLdHFTSE4xWEsvOE4remJlUERtV2pzMnhURXlZcDhFT1lSS3Q5cUN1UWhIZXcK"
     },
     "windows": [
